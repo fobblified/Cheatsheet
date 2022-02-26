@@ -1,16 +1,11 @@
 # Cheetsheets
 
 ### Содержание
-[Vigenere Decode](#vigenere)
-
-[Reboot](#reboot)
-
-[Sudo](#sudo)
-
+[Vigenere Decode](#vigenere)  
+[Reboot](#reboot)  
+[Sudo](#sudo)  
 [Nc](#nc)  
-
 [Python](#python)  
-
 [Crontab](#crontab)  
 
 #
