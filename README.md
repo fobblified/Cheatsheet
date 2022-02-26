@@ -1,11 +1,29 @@
 # Cheetsheets
 
-### Содержание  
+### Содержание
+[Vigenere Decode](#vigenere)
+[Reboot](#reboot)
+[Sudo](#sudo)
 [Nc](#nc)  
 [Python](#python)  
 [Crontab](#crontab)  
 
 #
+
+<a name="vigenere"></a>
+
+* Vigenere Decode
+  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
+
+<a name="reboot"></a>
+
+* Vigenere Decode
+  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
+
+<a name="sudo"></a>
+
+* Vigenere Decode
+  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
 
 <a name="nc"></a>
 
