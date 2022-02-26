@@ -2,8 +2,11 @@
 
 ### Содержание
 [Vigenere Decode](#vigenere)
+
 [Reboot](#reboot)
+
 [Sudo](#sudo)
+
 [Nc](#nc)  
 
 [Python](#python)  
