@@ -17,12 +17,12 @@
 
 <a name="reboot"></a>
 
-* Vigenere Decode
+* Reboot
   * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
 
 <a name="sudo"></a>
 
-* Vigenere Decode
+* Sudo
   * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
 
 <a name="nc"></a>
