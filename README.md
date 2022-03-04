@@ -7,6 +7,10 @@
 [Nc](#nc)  
 [Python](#python)  
 [Crontab](#crontab)  
+[Git](#git)  
+[Hmac](#hmac)  
+[Hash](#hash)  
+[Gpg](#gpg)  
 
 #
 
@@ -39,3 +43,23 @@
 
 * Crontab
   * [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)
+
+<a name="git"></a>
+
+* Git
+  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
+
+<a name="hmac"></a>
+
+* Hmac
+  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
+
+<a name="hash"></a>
+
+* Hash
+  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
+
+<a name="gpg"></a>
+
+* Gpg
+  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
