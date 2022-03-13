@@ -6,9 +6,12 @@
 :star:  [Gpg](#gpg)  
 :star:  [Hash](#hash)  
 :star:  [Hmac](#hmac)  
+:star:  [LD_PRELOAD](#ld_preload)  
+:star:  [Mongodb](#mongodb)  
 :star:  [Nc](#nc)  
 :star:  [Python](#python)  
 :star:  [Reboot](#reboot)  
+:star:  [Sockets](#sockets)  
 :star:  [Sudo](#sudo)  
 :star:  [Vigenere Decode](#vigenere)  
 
@@ -39,6 +42,16 @@
 * Hmac
   * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
 
+<a name="ld_preload"></a>
+
+* LD_PRELOAD
+  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
+
+<a name="mongodb"></a>
+
+* Mongodb
+  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
+
 <a name="nc"></a>
 
 * Nc
@@ -53,6 +66,11 @@
 
 * Reboot
   * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
+
+<a name="sockets"></a>
+
+* Sockets
+  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
 
 <a name="sudo"></a>
 
