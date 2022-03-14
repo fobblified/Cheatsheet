@@ -1,7 +1,10 @@
 # Cheetsheets
 
 ### Содержание
+:star:  [Apache](#apache)  
+:star:  [Capabilities(python)](#capabilities)  
 :star:  [Crontab](#crontab)  
+:star:  [Docker](#docker)  
 :star:  [Git](#git)  
 :star:  [Gpg](#gpg)  
 :star:  [Hash](#hash)  
@@ -14,13 +17,29 @@
 :star:  [Sockets](#sockets)  
 :star:  [Sudo](#sudo)  
 :star:  [Vigenere Decode](#vigenere)  
+:star:  [WinRM](#win_rm)  
 
 #
+
+<a name="apache"></a>
+
+* Apache
+  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
+
+<a name="capabilities"></a>
+
+* Capabilies(python)
+  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
 
 <a name="crontab"></a>
 
 * Crontab
   * [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)
+
+<a name="docker"></a>
+
+* Docker
+  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
 
 <a name="git"></a>
 
@@ -82,3 +101,8 @@
 
 * Vigenere Decode
   * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
+
+<a name="win_rm"></a>
+
+* WinRM
+  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
