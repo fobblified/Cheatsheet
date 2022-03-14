@@ -96,7 +96,6 @@
 * Sudo
   * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
 
-
 <a name="vigenere"></a>
 
 * Vigenere Decode
