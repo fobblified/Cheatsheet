@@ -18,6 +18,9 @@
 :star:  [Sudo](#sudo)  
 :star:  [Vigenere Decode](#vigenere)  
 :star:  [WinRM](#win_rm)  
+:star:  [Php highlighting](#php)  
+:star:  [Md5](#md5)  
+:star:  [Fail2ban](#fail2ban)  
 
 #
 
@@ -105,3 +108,18 @@
 
 * WinRM
   * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
+
+<a name="win_rm"></a>
+
+* Php highlighting
+  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
+
+<a name="win_rm"></a>
+
+* Md5
+  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
+
+<a name="win_rm"></a>
+
+* Fail2ban
+  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
