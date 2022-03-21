@@ -21,6 +21,10 @@
 :star:  [Php highlighting](#php)  
 :star:  [Md5](#md5)  
 :star:  [Fail2ban](#fail2ban)  
+:star:  [Hydra](#hydra)  
+:star:  [Codiad](#codiad)  
+:star:  [Openssl](#openssl)  
+:star:  [Tee](#tee)  
 
 #
 
@@ -123,3 +127,23 @@
 
 * Fail2ban
   * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
+
+<a name="hydra"></a>
+
+* Hydra
+  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
+
+<a name="codiad"></a>
+
+* Codiad
+  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
+
+<a name="openssl"></a>
+
+* Openssl
+  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
+
+<a name="tee"></a>
+
+* Tee
+  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
