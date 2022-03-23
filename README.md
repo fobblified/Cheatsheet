@@ -25,6 +25,10 @@
 :star:  [Codiad](#codiad)  
 :star:  [Openssl](#openssl)  
 :star:  [Tee](#tee)  
+:star:  [Brainfuck](#brainfuck)  
+:star:  [Shell stabilisation](#stable)  
+:star:  [Openssl(capabilities)](#openssl_cap)  
+:star:  [Sending files](#files_send)  
 
 #
 
@@ -147,3 +151,23 @@
 
 * Tee
   * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
+
+<a name="brainfuck"></a>
+
+* Brainfuck
+  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
+
+<a name="stable"></a>
+
+* Shell stabilisation
+  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
+
+<a name="openssl_cap"></a>
+
+* Openssl(capabilities)
+  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
+
+<a name="files_send"></a>
+
+* Sending files
+  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
