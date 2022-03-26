@@ -29,6 +29,8 @@
 :star:  [Shell stabilisation](#stable)  
 :star:  [Openssl(capabilities)](#openssl_cap)  
 :star:  [Sending files](#files_send)  
+:star:  [Samba](#samba)  
+:star:  [SeImpersonatePrivilege](#SeImpersonate)  
 
 #
 
@@ -171,3 +173,13 @@
 
 * Sending files
   * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
+
+<a name="samba"></a>
+
+* Samba
+  * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
+
+<a name="SeImpersonate"></a>
+
+* SeImpersonatePrivilege
+  * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
