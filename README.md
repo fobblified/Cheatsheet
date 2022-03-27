@@ -31,6 +31,12 @@
 :star:  [Sending files](#files_send)  
 :star:  [Samba](#samba)  
 :star:  [SeImpersonatePrivilege](#SeImpersonate)  
+:star:  [NFS](#nfs)  
+:star:  [Redis](#redis)  
+:star:  [Rsync](#rsync)  
+:star:  [Ssh](#ssh)  
+:star:  [TeamCity](#teamcity)  
+:star:  [Ssh tunneling](#tunneling)  
 
 #
 
@@ -178,8 +184,39 @@
 
 * Samba
   * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
 
 <a name="SeImpersonate"></a>
 
 * SeImpersonatePrivilege
   * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
+
+<a name="nfs"></a>
+
+* NFS
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="redis"></a>
+
+* Redis
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="rsync"></a>
+
+* Rsync
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="ssh"></a>
+
+* Ssh
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="teamcity"></a>
+
+* TeamCity
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="tunneling"></a>
+
+* Ssh tunneling
+  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
