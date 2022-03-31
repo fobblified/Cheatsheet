@@ -37,6 +37,8 @@
 :star:  [Ssh](#ssh)  
 :star:  [TeamCity](#teamcity)  
 :star:  [Ssh tunneling](#tunneling)  
+:star:  [Joomla](#joomla)  
+:star:  [Yum](#yum)  
 
 #
 
@@ -220,3 +222,13 @@
 
 * Ssh tunneling
   * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
+
+<a name="joomla"></a>
+
+* Joomla
+  * [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)
+
+<a name="yum"></a>
+
+* Yum
+  * [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)
