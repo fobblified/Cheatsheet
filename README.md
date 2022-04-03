@@ -39,6 +39,11 @@
 :star:  [Ssh tunneling](#tunneling)  
 :star:  [Joomla](#joomla)  
 :star:  [Yum](#yum)  
+:star:  [Enum4linux](#enum4linux)  
+:star:  [Command Injection(filtering)](#command_njection_filtering)  
+:star:  [Socat tunneling](#socat_tunneling)  
+:star:  [Shutdown](#shutdown)  
+:star:  [PATH](#PATH)  
 
 #
 
@@ -146,6 +151,7 @@
 
 * Hydra
   * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
 
 <a name="codiad"></a>
 
@@ -232,3 +238,28 @@
 
 * Yum
   * [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)
+
+<a name="enum4linux"></a>
+
+* Enum4linux
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+
+<a name="command_njection_filtering"></a>
+
+* Command Injection(filtering)
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+
+<a name="socat_tunneling"></a>
+
+* Socat tunneling
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+
+<a name="shutdown"></a>
+
+* Shutdown
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+
+<a name="PATH"></a>
+
+* PATH
+  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
