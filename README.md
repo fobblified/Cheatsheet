@@ -44,6 +44,10 @@
 :star:  [Socat tunneling](#socat_tunneling)  
 :star:  [Shutdown](#shutdown)  
 :star:  [PATH](#PATH)  
+:star:  [Crunch](#crunch)  
+:star:  [Sqlite3](#sqlite3)  
+:star:  [Sudoedit](#sudoedit)  
+:star:  [Sudo_version](#sudo_version)  
 
 #
 
@@ -263,3 +267,23 @@
 
 * PATH
   * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+
+<a name="crunch"></a>
+
+* Crunch
+  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
+
+<a name="sqlite3"></a>
+
+* Sqlite3
+  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
+
+<a name="sudoedit"></a>
+
+* Sudoedit
+  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
+
+<a name="sudo_version"></a>
+
+* Sudo_version
+  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
