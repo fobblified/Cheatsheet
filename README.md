@@ -48,6 +48,7 @@
 :star:  [Sqlite3](#sqlite3)  
 :star:  [Sudoedit](#sudoedit)  
 :star:  [Sudo_version](#sudo_version)  
+:star:  [Mnemonic](#mnemo)  
 
 #
 
@@ -156,6 +157,7 @@
 * Hydra
   * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
   * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
+  * [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)
 
 <a name="codiad"></a>
 
@@ -287,3 +289,8 @@
 
 * Sudo_version
   * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
+
+<a name="mnemo"></a>
+
+* Mnemonic
+  * [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)
