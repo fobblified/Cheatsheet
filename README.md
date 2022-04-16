@@ -49,6 +49,8 @@
 :star:  [Sudoedit](#sudoedit)  
 :star:  [Sudo_version](#sudo_version)  
 :star:  [Mnemonic](#mnemo)  
+:star:  [Wpscan](#wpscan)  
+:star:  [Wordpress_theme_editor](#wordpress_theme_editor)  
 
 #
 
@@ -294,3 +296,13 @@
 
 * Mnemonic
   * [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)
+  
+<a name="wpscan"></a>
+
+* Wpscan
+  * [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)
+
+<a name="wordpress_theme_editor"></a>
+
+* Wordpress_theme_editor
+  * [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)
