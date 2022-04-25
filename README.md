@@ -1,308 +1,153 @@
-# Cheetsheets
-
-### Содержание
-:star:  [Apache](#apache)  
-:star:  [Capabilities(python)](#capabilities)  
-:star:  [Crontab](#crontab)  
-:star:  [Docker](#docker)  
-:star:  [Git](#git)  
-:star:  [Gpg](#gpg)  
-:star:  [Hash](#hash)  
-:star:  [Hmac](#hmac)  
-:star:  [LD_PRELOAD](#ld_preload)  
-:star:  [Mongodb](#mongodb)  
-:star:  [Nc](#nc)  
-:star:  [Python](#python)  
-:star:  [Reboot](#reboot)  
-:star:  [Sockets](#sockets)  
-:star:  [Sudo](#sudo)  
-:star:  [Vigenere Decode](#vigenere)  
-:star:  [WinRM](#win_rm)  
-:star:  [Php highlighting](#php)  
-:star:  [Md5](#md5)  
-:star:  [Fail2ban](#fail2ban)  
-:star:  [Hydra](#hydra)  
-:star:  [Codiad](#codiad)  
-:star:  [Openssl](#openssl)  
-:star:  [Tee](#tee)  
-:star:  [Brainfuck](#brainfuck)  
-:star:  [Shell stabilisation](#stable)  
-:star:  [Openssl(capabilities)](#openssl_cap)  
-:star:  [Sending files](#files_send)  
-:star:  [Samba](#samba)  
-:star:  [SeImpersonatePrivilege](#SeImpersonate)  
-:star:  [NFS](#nfs)  
-:star:  [Redis](#redis)  
-:star:  [Rsync](#rsync)  
-:star:  [Ssh](#ssh)  
-:star:  [TeamCity](#teamcity)  
-:star:  [Ssh tunneling](#tunneling)  
-:star:  [Joomla](#joomla)  
-:star:  [Yum](#yum)  
-:star:  [Enum4linux](#enum4linux)  
-:star:  [Command Injection(filtering)](#command_njection_filtering)  
-:star:  [Socat tunneling](#socat_tunneling)  
-:star:  [Shutdown](#shutdown)  
-:star:  [PATH](#PATH)  
-:star:  [Crunch](#crunch)  
-:star:  [Sqlite3](#sqlite3)  
-:star:  [Sudoedit](#sudoedit)  
-:star:  [Sudo_version](#sudo_version)  
-:star:  [Mnemonic](#mnemo)  
-:star:  [Wpscan](#wpscan)  
-:star:  [Wordpress_theme_editor](#wordpress_theme_editor)  
-
-#
-
-<a name="apache"></a>
-
-* Apache
-  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
-
-<a name="capabilities"></a>
-
-* Capabilies(python)
-  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
-
-<a name="crontab"></a>
-
-* Crontab
-  * [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)
-
-<a name="docker"></a>
-
-* Docker
-  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
-
-<a name="git"></a>
-
-* Git
-  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
-
-<a name="gpg"></a>
-
-* Gpg
-  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
-
-<a name="hash"></a>
-
-* Hash
-  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
-
-<a name="hmac"></a>
-
-* Hmac
-  * [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)
-
-<a name="ld_preload"></a>
-
-* LD_PRELOAD
-  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
-
-<a name="mongodb"></a>
-
-* Mongodb
-  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
-
-<a name="nc"></a>
-
-* Nc
-  * [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)
-
-<a name="python"></a>
-
-* Python
-  * [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)
-
-<a name="reboot"></a>
-
-* Reboot
-  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
-
-<a name="sockets"></a>
-
-* Sockets
-  * [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)
-
-<a name="sudo"></a>
-
-* Sudo
-  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
-
-<a name="vigenere"></a>
-
-* Vigenere Decode
-  * [Looking_Glass](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Looking_Glass)
-
-<a name="win_rm"></a>
-
-* WinRM
-  * [Oh_My_Webserver](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)
-
-<a name="php"></a>
-
-* Php highlighting
-  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
-
-<a name="md5"></a>
-
-* Md5
-  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
-
-<a name="fail2ban"></a>
-
-* Fail2ban
-  * [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)
-
-<a name="hydra"></a>
-
-* Hydra
-  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-  * [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)
-
-<a name="codiad"></a>
-
-* Codiad
-  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
-
-<a name="openssl"></a>
-
-* Openssl
-  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
-
-<a name="tee"></a>
-
-* Tee
-  * [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)
-
-<a name="brainfuck"></a>
-
-* Brainfuck
-  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
-
-<a name="stable"></a>
-
-* Shell stabilisation
-  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
-
-<a name="openssl_cap"></a>
-
-* Openssl(capabilities)
-  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
-
-<a name="files_send"></a>
-
-* Sending files
-  * [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)
-
-<a name="samba"></a>
-
-* Samba
-  * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="SeImpersonate"></a>
-
-* SeImpersonatePrivilege
-  * [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)
-
-<a name="nfs"></a>
-
-* NFS
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="redis"></a>
-
-* Redis
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="rsync"></a>
-
-* Rsync
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="ssh"></a>
-
-* Ssh
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="teamcity"></a>
-
-* TeamCity
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="tunneling"></a>
-
-* Ssh tunneling
-  * [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)
-
-<a name="joomla"></a>
-
-* Joomla
-  * [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)
-
-<a name="yum"></a>
-
-* Yum
-  * [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)
-
-<a name="enum4linux"></a>
-
-* Enum4linux
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-
-<a name="command_njection_filtering"></a>
-
-* Command Injection(filtering)
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-
-<a name="socat_tunneling"></a>
-
-* Socat tunneling
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-
-<a name="shutdown"></a>
-
-* Shutdown
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-
-<a name="PATH"></a>
-
-* PATH
-  * [Year_of_the_Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)
-
-<a name="crunch"></a>
-
-* Crunch
-  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
-
-<a name="sqlite3"></a>
-
-* Sqlite3
-  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
-
-<a name="sudoedit"></a>
-
-* Sudoedit
-  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
-
-<a name="sudo_version"></a>
-
-* Sudo_version
-  * [Year_of_the_Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)
-
-<a name="mnemo"></a>
-
-* Mnemonic
-  * [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)
-  
-<a name="wpscan"></a>
-
-* Wpscan
-  * [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)
-
-<a name="wordpress_theme_editor"></a>
-
-* Wordpress_theme_editor
-  * [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)
+# Table of contents
+1. **[Tryhackme](#Tryhackme)**
+
+2. **[Alphabetical order](#Alphabetic)**
+
+3. **[Categories](#Categories)**
+
+<hr>
+
+<br></br>
+<br></br>
+
+<a name="Tryhackme"></a>
+<h1 align="center">Tryhackme</h1>
+
+
+| :green_circle: | Easy | | :orange_circle: | Medium | | :red_circle: | Hard | | :black_circle: | Insane |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :green_circle: | [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)  | | :orange_circle: | [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)  | | :red_circle: | [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)  | | :black_circle: | Nothing here |
+| :green_circle: | [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)  | | :orange_circle: | [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)  | | :red_circle: | [Year of the Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)  | |
+| | | | :orange_circle: | [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)  | | :red_circle: | [Year of the Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)  | |
+| | | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | | | |
+| | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | | | |
+| | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | | | |
+| | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | | | |
+| | | | :orange_circle: | [Oh My WebServer](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)  | | | | |
+| | | | :orange_circle: | [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)  | | | | |
+| | | | :orange_circle: | [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)  | | | | |
+
+---
+
+<!---
+| :green_circle: |   | | :orange_circle: |   | | :red_circle: |   | | :black_circle: |  |
+--->
+
+<br></br>
+<br></br>
+
+<a name="Alphabetic"></a>
+<h1 align="center">Alphabetical order</h1>
+
+
+| A |  | B |  | C |  | D |  | E |  | F |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Apache 2.4.49 exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  | [Brainfuck](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |  | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |
+|  |  |  |  | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
+|  |  |  |  | [Codiad exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |
+|  |  |  |  | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+| G |  | H |  | I |  | J |  | K |  | L |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac.php](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  | [Joomla 3.7.0 / Joomblah](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  |  |  | [LD_PRELOAD(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |
+| [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  |  |  |  |  |  |
+|  |  | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |  |  |
+|  |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
+
+| M |  | N |  | O |  | P |  | Q |  | R |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  | [Nc connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  | [Php highlighting / .phps](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  |  |  | [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
+| [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  | [NFS getting files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |  | [Rsync connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
+| [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |  |  |
+|  |  |  |  |  |  | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |
+
+| S |  | T |  | U |  | V |  | W |  | X |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |  | [Tee(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  | [Vigenere Decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |  | [Wpscan user enum](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
+| [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [TeamCity shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
+| [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  |  |  |  |  |  |  | [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
+| [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  | [WinRM exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |
+| [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  |  |  |  |
+| [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  |  |  |  |  |  |
+| [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
+| [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
+| [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |  |  |
+| [Shutdown(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |  |  |
+| [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
+| [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
+| [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
+
+| Y |  | Z |
+|:--:|:--:|:--:|
+| [Yum(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  |  |
+
+---
+
+<br></br>
+<br></br>
+
+<a name="Categories"></a>
+<h1 align="center">Categories</h1>
+
+| :spider_web: | Web | | :lock: | Crypto | | :incoming_envelope: | Network | | :pencil2: | Coding |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :spider_web: | [Apache 2.4.49 exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :lock: | [Brainfuck](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) | | :incoming_envelope: | [Nc connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :pencil2: | [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |
+| :spider_web: | [Codiad exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | | :lock: | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :incoming_envelope: | [NFS getting files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | |  |   |
+| :spider_web: | [Hmac.php](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :lock: | [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :incoming_envelope: | [Rsync connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | |  |   |
+| :spider_web: | [Joomla 3.7.0 / Joomblah](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) | | :lock: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) | | :incoming_envelope: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) | |  |   |
+| :spider_web: | [Php highlighting / .phps](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :lock: | [Vigenere Decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) | | :incoming_envelope: | [WinRM exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | |  |   |
+| :spider_web: | [TeamCity shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :lock: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :incoming_envelope: | [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | |  |   |
+| :spider_web: | [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :lock: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :incoming_envelope: | [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | |  |   |
+| :spider_web: | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | |  |   | | :incoming_envelope: | [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   |
+| :spider_web: | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   | | :incoming_envelope: | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) | |  |   |
+
+<!--
+| :spider_web: |   | | :lock: |   | | :incoming_envelope: |   | | :pencil2: |   | 
+--->
+
+<br></br>
+
+| :satellite: | Enumeration | | :gear: | Capabilities | | :performing_arts:	 | Privesc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :satellite: | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | | :gear: | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) | | :performing_arts:	 | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :mechanical_arm: | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
+| :satellite: | [Wpscan user enum](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :gear: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :performing_arts:	 | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :mechanical_arm: | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |
+|  |   | |  |   | | :performing_arts:	: | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |
+|  |   | |  |   | | :performing_arts:	 | [LD_PRELOAD(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
+|  |   | |  |   | | :performing_arts:	 | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
+|  |   | |  |   | | :performing_arts:	 | [Tee(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | |  |   |
+|  |   | |  |   | | :performing_arts:	 | [Shutdown(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |
+|  |   | |  |   | | :performing_arts:	 | [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
+|  |   | |  |   | | :performing_arts:	 | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
+|  |   | |  |   | | :performing_arts:	 | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |
+
+<!---
+| :satellite: |   | | :gear: |   | | :black_joker: |   | | :mechanical_arm: |   |
+--->
+
+<br></br>
+
+| :mechanical_arm: | Bruteforce | | :books: | Databases | | :snake: | Python | | :penguin: | Linux |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :mechanical_arm: | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) | | :books: | [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) | | :snake: | [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :penguin: | [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |
+| :mechanical_arm: | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | | :books: | [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :snake: | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :penguin: | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |
+| :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) | | :books: | [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :snake: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :penguin: | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |
+| :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | |  |  | |  |  | | :penguin: | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
+|  |  | |  |  | |  |  | | :penguin: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
+|  |  | |  |  | |  |  | | :penguin: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
+|  |  | |  |  | |  |  | | :penguin: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |
+
+<!---
+| :mechanical_arm: |  | | :books: |  | | :snake: |  | | :penguin: |  |
+--->
+
+<br></br>
+
+| :joystick: | Git | | :toolbox: | Other |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :joystick: | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :toolbox: | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
+
+<!---
+| :joystick: |  | | :toolbox: |  |
+--->
+---
