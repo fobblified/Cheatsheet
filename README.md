@@ -113,7 +113,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | :satellite: | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | | :gear: | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) | | :performing_arts:	 | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :mechanical_arm: | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
 | :satellite: | [Wpscan user enum](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :gear: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :performing_arts:	 | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :mechanical_arm: | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |
-|  |   | |  |   | | :performing_arts:	: | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |
+|  |   | |  |   | | :performing_arts: | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |
 |  |   | |  |   | | :performing_arts:	 | [LD_PRELOAD(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
 |  |   | |  |   | | :performing_arts:	 | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
 |  |   | |  |   | | :performing_arts:	 | [Tee(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | |  |   |
@@ -121,9 +121,9 @@
 |  |   | |  |   | | :performing_arts:	 | [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
 |  |   | |  |   | | :performing_arts:	 | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
 |  |   | |  |   | | :performing_arts:	 | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |
-|  |   | |  |   | | :black_joker: | [Getenv(privesc)](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   |
+|  |   | |  |   | | :performing_arts: | [Getenv(privesc)](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   |
 <!---
-| :satellite: |   | | :gear: |   | | :black_joker: |   | | :mechanical_arm: |   |
+| :satellite: |   | | :gear: |   | | :performing_arts: |   | | :mechanical_arm: |   |
 --->
 
 <br></br>
