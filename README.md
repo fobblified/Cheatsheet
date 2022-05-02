@@ -18,7 +18,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | :green_circle: | [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)  | | :orange_circle: | [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)  | | :red_circle: | [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)  | | :black_circle: | Nothing here |
 | :green_circle: | [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)  | | :orange_circle: | [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)  | | :red_circle: | [Year of the Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)  | |
-| | | | :orange_circle: | [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)  | | :red_circle: | [Year of the Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)  | |
+| :green_circle: | [All_in_One](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | | :orange_circle: | [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)  | | :red_circle: | [Year of the Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)  | |
 | | | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | | | |
 | | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | | | |
 | | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | | | |
@@ -70,7 +70,7 @@
 | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  |  |  |  |  |  |  | [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
 | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  | [WinRM exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |
 | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) |  |  |
-| [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  |  |  |  |  |  |
+| [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  |  |  | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |
 | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
 | [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
 | [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |  |  |
@@ -78,6 +78,7 @@
 | [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
 | [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
 | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
+| [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |  |  |  |  |  |  |  |  |
 
 | Y |  | Z |
 |:--:|:--:|:--:|
@@ -102,7 +103,8 @@
 | :spider_web: | [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :lock: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :incoming_envelope: | [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | |  |   |
 | :spider_web: | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | |  |   | | :incoming_envelope: | [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   |
 | :spider_web: | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   | | :incoming_envelope: | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) | |  |   |
-| :spider_web: | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   | |  |   | |  |   | 
+| :spider_web: | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   | |  |   | |  |   |
+| :spider_web: | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   | |  |   | |  |   | 
 <!--
 | :spider_web: |   | | :lock: |   | | :incoming_envelope: |   | | :pencil2: |   | 
 --->
@@ -122,6 +124,7 @@
 |  |   | |  |   | | :performing_arts:	 | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |
 |  |   | |  |   | | :performing_arts:	 | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |
 |  |   | |  |   | | :performing_arts: | [Getenv(privesc)](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   |
+|  |   | |  |   | | :performing_arts: | [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   |
 <!---
 | :satellite: |   | | :gear: |   | | :performing_arts: |   | | :mechanical_arm: |   |
 --->
