@@ -19,7 +19,7 @@
 | :green_circle: | [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)  | | :orange_circle: | [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)  | | :red_circle: | [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)  | | :black_circle: | Nothing here |
 | :green_circle: | [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)  | | :orange_circle: | [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)  | | :red_circle: | [Year of the Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)  | |
 | :green_circle: | [All_in_One](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | | :orange_circle: | [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)  | | :red_circle: | [Year of the Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)  | |
-| | | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | | | |
+| | | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | :red_circle: | [Year of the Dog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |
 | | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | | | |
 | | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | | | |
 | | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | | | |
@@ -43,11 +43,11 @@
 
 | A |  | B |  | C |  | D |  | E |  | F |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Apache 2.4.49 exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  | [Brainfuck](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |  | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |
+| [Apache 2.4.49 exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  | [Brainfuck](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  | [Docker escape - bash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |
 |  |  |  |  | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
 |  |  |  |  | [Codiad exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |
 |  |  |  |  | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |
 
 | G |  | H |  | I |  | J |  | K |  | L |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
