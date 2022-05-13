@@ -109,6 +109,9 @@
 | :spider_web: | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   | | :incoming_envelope: | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) | |  |   |
 | :spider_web: | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   | |  |   | |  |   |
 | :spider_web: | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   | |  |   | |  |   | 
+| :spider_web: | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
+| :spider_web: | [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
+| :spider_web: | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
 <!--
 | :spider_web: |   | | :lock: |   | | :incoming_envelope: |   | | :pencil2: |   | 
 --->
@@ -140,7 +143,7 @@
 | :mechanical_arm: | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) | | :books: | [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) | | :snake: | [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) | | :penguin: | [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |
 | :mechanical_arm: | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | | :books: | [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :snake: | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :penguin: | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |
 | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) | | :books: | [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :snake: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :penguin: | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |
-| :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | |  |  | |  |  | | :penguin: | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
+| :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :books: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :snake: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :penguin: | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
 |  |  | |  |  | |  |  | | :penguin: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
 |  |  | |  |  | |  |  | | :penguin: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
 |  |  | |  |  | |  |  | | :penguin: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |
@@ -151,11 +154,13 @@
 
 <br></br>
 
-| :joystick: | Git | | :toolbox: | Other |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| :joystick: | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :toolbox: | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
+| :joystick: | Git | | :toolbox: | Other | | :whale: | Docker |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| :joystick: | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :toolbox: | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | :whale: | [Docker escape - bash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |
+| :joystick: | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |  |
+| :joystick: | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |  |
 
 <!---
-| :joystick: |  | | :toolbox: |  |
+| :joystick: |  |  | :toolbox: |  |  | ::whale |  |
 --->
 ---
