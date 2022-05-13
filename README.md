@@ -54,7 +54,8 @@
 | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac.php](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  | [Joomla 3.7.0 / Joomblah](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  |  |  | [LD_PRELOAD(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |
 | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  |  |  |  |  |  |
 | [Getenv(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) |  | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |  |  |
-|  |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
+| [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
+| [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
 
 | M |  | N |  | O |  | P |  | Q |  | R |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -62,6 +63,8 @@
 | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  | [NFS getting files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |  | [Rsync connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
 | [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |  |  |
 |  |  |  |  |  |  | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |
+|  |  |  |  |  |  | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
+|  |  |  |  |  |  | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
 
 | S |  | T |  | U |  | V |  | W |  | X |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -79,6 +82,7 @@
 | [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
 | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
 | [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |  |  |  |  |  |  |  |  |
+| [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
 
 | Y |  | Z |
 |:--:|:--:|:--:|
