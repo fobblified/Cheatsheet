@@ -134,7 +134,7 @@
 |  |   | |  |   | | :performing_arts:	 | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |
 |  |   | |  |   | | :performing_arts: | [Getenv(privesc)](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |   |
 |  |   | |  |   | | :performing_arts: | [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   |
-|  |   | |  |   | | :performing_arts: | [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |  |   |
+|  |   | |  |   | | :performing_arts: | [Tar wildcards(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |  |   |
 
 <!---
 | :satellite: |   | | :gear: |   | | :performing_arts: |   | | :mechanical_arm: |   |
