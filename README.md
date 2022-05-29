@@ -19,7 +19,7 @@
 | :green_circle: | [ColddBox: Easy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox)  | | :orange_circle: | [Biteme](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme)  | | :red_circle: | [Daily Bugle](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle)  | | :black_circle: | Nothing here |
 | :green_circle: | [VulnNet: Internal](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal)  | | :orange_circle: | [Develpy](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy)  | | :red_circle: | [Year of the Fox](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox)  | |
 | :green_circle: | [All_in_One](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | | :orange_circle: | [Harder](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder)  | | :red_circle: | [Year of the Pig](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig)  | |
-| | | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | :red_circle: | [Year of the Dog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |
+| :green_circle: | [Couch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Couch) | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | :red_circle: | [Year of the Dog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |
 | | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | :red_circle: | [Anonymous Playground](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |
 | | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | | | |
 | | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | | | |
@@ -48,6 +48,8 @@
 |  |  |  |  | [Codiad exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |
 |  |  |  |  | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |
 |  |  |  |  | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |
+|  |  |  |  | [Couchdb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Couch) |  |  |  |  |  |  |
+
 
 | G |  | H |  | I |  | J |  | K |  | L |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -148,7 +150,7 @@
 | :mechanical_arm: | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) | | :books: | [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) | | :snake: | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) | | :penguin: | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |
 | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) | | :books: | [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :snake: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :penguin: | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |
 | :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :books: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :snake: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :penguin: | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
-|  |  | |  |  | | :snake: | [Python "zA" decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | | :penguin: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
+|  |  | | :books: | [Couchdb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Couch) | | :snake: | [Python "zA" decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | | :penguin: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
 |  |  | |  |  | |  |  | | :penguin: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
 |  |  | |  |  | |  |  | | :penguin: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |
 
