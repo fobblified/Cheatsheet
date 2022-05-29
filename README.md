@@ -27,6 +27,7 @@
 | | | | :orange_circle: | [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)  | | | | |
 | | | | :orange_circle: | [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)  | | | | |
 | | | | :orange_circle: | [Blog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog)  | | | | |
+| | | | :orange_circle: | [Watcher](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Watcher)  | | | | |
 
 ---
 
