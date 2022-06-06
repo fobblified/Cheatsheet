@@ -63,39 +63,45 @@
 | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
 | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
 
-| M |  | N |  | O |  | P |  | Q |  | R |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  | [Nc connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  | [Php highlighting / .phps](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  |  |  | [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
-| [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  | [NFS getting files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |  | [Rsync connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
-| [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |  | [Rbash(command restriction)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |
+| M |  | N |  | O |  | P |  | Q |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Md5 python auto convert](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  | [Nc connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  | [Openssl user creating](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  | [Php highlighting / .phps](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |  |  |
+| [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  | [NFS getting files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Openssl(capabilities)(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Python input() function](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  |  |
+| [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |
 |  |  |  |  |  |  | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |
 |  |  |  |  |  |  | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
 |  |  |  |  |  |  | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
 |  |  |  |  |  |  | [Python "zA" decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |
 
-| S |  | T |  | U |  | V |  | W |  | X |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |  | [Tee(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  | [Vigenere Decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |  | [Wpscan user enum](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
-| [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [TeamCity shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
-| [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Tar wildcards(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |  | [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |  |  |
-| [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  | [WinRM exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  |  |
-| [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) |  |  |
-| [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  |  |  | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |
-| [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
-| [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |  |  |
-| [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |  |  |
-| [Shutdown(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |  |  |
-| [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
-| [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
-| [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |  |  |
-| [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |  |  |  |  |  |  |  |  |
-| [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
-| [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |  |  |  |  |  |  |
-| [Symbolic link for opening files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |  |  |  |  |
+| R |  | S |  | T |  | U |  | V |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Redis browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |  | [Tee(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  | [Vigenere Decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
+| [Rsync connection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [TeamCity shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  
+| [Rbash(command restriction)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Tar wildcards(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |
+|  |  | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  |  |
+|  |  | [SeImpersonatePrivilege exploit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) |  |  |  |  |  |  |  |  |
+|  |  | [Sockets](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |  |  |  |  |  |  |  |  |
+|  |  | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |
+|  |  | [Ssh tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |  |  |  |  |  |  |  |  |
+|  |  | [Socat tunneling](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |
+|  |  | [Shutdown(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |  |  |
+|  |  | [Sqlite3 browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |
+|  |  | [Sudoedit(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |
+|  |  | [Sudo version(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  |  |  |  |  |  |  |  |
+|  |  | [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) |  |  |  |  |  |  |  |  |
+|  |  | [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |
+|  |  | [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |  |  |  |  |
+|  |  | [Symbolic link for opening files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |  |  |
 
-| Y |  | Z |
-|:--:|:--:|:--:|
-| [Yum(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  | [Zip pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |
+| W | | X | | Y |  | Z |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Wpscan user enum](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | | | [Yum(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  | [Zip pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |
+| [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | | |  |  |  |
+| [Wordpress theme editor shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | | |  |  |  |
+| [WinRM exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | | |  |  |  |
+| [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) | | | |  |  |  |
+| [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | | | |  |  |  |
+
 
 ---
 
