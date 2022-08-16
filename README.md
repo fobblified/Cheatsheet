@@ -22,7 +22,7 @@
 | :green_circle: | [Couch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Couch) | | :orange_circle: | [Inferno](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno)  | | :red_circle: | [Year of the Dog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |
 | | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | :red_circle: | [Anonymous Playground](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |
 | | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | :red_circle: | [Jeff](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | |
-| | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | | | |
+| | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | :red_circle: | [For Business Reasons](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) | |
 | | | | :orange_circle: | [Oh My WebServer](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)  | | | | |
 | | | | :orange_circle: | [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)  | | | | |
 | | | | :orange_circle: | [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)  | | | | |
@@ -53,12 +53,12 @@
 |  |  |  |  | [Curl ftp server](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |
 |  |  |  |  | [Curl ftp server sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |
 |  |  |  |  | [Crontab(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |
-
+|  |  |  |  | [Chisel_ip_and_port](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) |  |  |  |  |  |  |
 
 | G |  | H |  | I |  | J |  | K |  | L |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac.php](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  | [Joomla 3.7.0 / Joomblah](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Daily_Bugle) |  |  |  | [LD_PRELOAD(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) |
-| [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  |  |  |  |  |  |
+| [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  | [Hmac hash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |  |  |  |  |  |  |  | [Lxd-alpine(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) |
 | [Getenv(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) |  | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |  |  |
 | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
 | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
@@ -124,7 +124,7 @@
 | :spider_web: | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) | |  |   | | :incoming_envelope: | [Samba directory browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant) | |  |   |
 | :spider_web: | [Wordpress 5.0 Crop-image exploit](https://github.com/fobblified/Writeups/blob/main/Tryhackme/Blog/README.md) | |  |  | | :incoming_envelope: | [Curl ftp server](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff)  | |  |   |
 | :spider_web: | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   | | :incoming_envelope: | [Curl ftp server sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff)  | |  |   | 
-| :spider_web: | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
+| :spider_web: | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | | :incoming_envelope: | [Chisel_ip_and_port](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons)  | |  |   | 
 | :spider_web: | [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
 | :spider_web: | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
 <!--
@@ -149,6 +149,7 @@
 |  |   | |  |   | | :performing_arts: | [Socat(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   |
 |  |   | |  |   | | :performing_arts: | [Tar wildcards(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |  |   |
 |  |   | |  |   | | :performing_arts: | [Crontab(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | |  |   |
+|  |   | |  |   | | :performing_arts: | [Lxd-alpine(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) | |  |   |
 
 <!---
 | :satellite: |   | | :gear: |   | | :performing_arts: |   | | :mechanical_arm: |   |
@@ -176,7 +177,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | :joystick: | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :toolbox: | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | :whale: | [Docker escape - bash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :floppy_disk: | [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |
 | :joystick: | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | :toolbox: | [Symbolic link for opening files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | | :whale: | [Docker escape via ftp and tar wildcards](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |
-| :joystick: | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :toolbox: | [Rbash(command restriction)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | |
+| :joystick: | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :toolbox: | [Rbash(command restriction)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | | :whale: | [Lxd-alpine(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) |
 
 <!---
 | :joystick: |  | | :toolbox: |  | |  | Docker | | :floppy_disk: |  |
