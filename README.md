@@ -23,11 +23,11 @@
 | | | | :orange_circle: | [Looking Glass](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass)  | | :red_circle: | [Anonymous Playground](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | |
 | | | | :orange_circle: | [Mindgames](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames)  | | :red_circle: | [Jeff](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | |
 | | | | :orange_circle: | [Mnemonic](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic)  | | :red_circle: | [For Business Reasons](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) | |
-| | | | :orange_circle: | [Oh My WebServer](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)  | | | | |
+| | | | :orange_circle: | [Oh My WebServer](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver)  | | :red_circle: | [Borderlands](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | |
 | | | | :orange_circle: | [Relevant](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Relevant)  | | | | |
 | | | | :orange_circle: | [Road](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road)  | | | | |
 | | | | :orange_circle: | [Blog](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog)  | | | | |
-| | | | :orange_circle: | [Watcher](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Watcher)  | | | | |
+| | | | :orange_circle: | [Watcher](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Watcher)  | | | | 
 
 ---
 
@@ -45,7 +45,7 @@
 | A |  | B |  | C |  | D |  | E |  | F |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Apache 2.4.49 exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) |  | [Brainfuck](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | [Crontab file rewrite(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Develpy) |  | [Docker escape - bash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Enum4linux](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  | [Fail2ban config(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Biteme) |
-|  |  |  |  | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  | [Docker escape via ftp and tar wildcards](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
+| [Apk_Reversing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) |  |  |  | [Crunch](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Pig) |  | [Docker escape via ftp and tar wildcards](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  | [Find(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) |
 |  |  |  |  | [Codiad exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |
 |  |  |  |  | [Command Injection(filtering)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |  |  |  |  |  |  |
 |  |  |  |  | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |
@@ -62,6 +62,7 @@
 | [Getenv(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Blog) |  | [Hydra get request](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Inferno) |  |  |  |  |  |  |  |  |
 | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) |  |  |  |  |  |  |  |  |
 | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |  |  |
+| [GitHack_and_getting_files_from_git](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) |  |  |  |  |  |  |  |  |  |  |
 
 | M |  | N |  | O |  | P |  | Q |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -72,6 +73,8 @@
 |  |  |  |  |  |  | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
 |  |  |  |  |  |  | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |
 |  |  |  |  |  |  | [Python "zA" decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |
+|  |  |  |  |  |  | [Python_ip_scanner](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) |  |  |  |  |
+|  |  |  |  |  |  | [Python_port_scanner](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) |  |  |  |  |
 
 | R |  | S |  | T |  | U |  | V |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -92,6 +95,7 @@
 |  |  | [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  |  |  |  |  |  |  |  |
 |  |  | [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |  |  |  |  |  |  |  |  |
 |  |  | [Symbolic link for opening files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |  |  |  |  |  |  |  |  |
+|  |  | [Sqlmap_reverse_shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) |  |  |  |  |  |  |  |  |
 
 | W | | X | | Y |  | Z |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -126,7 +130,8 @@
 | :spider_web: | [Wordpress mail-masta exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/All_in_One) | |  |   | | :incoming_envelope: | [Curl ftp server sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff)  | |  |   | 
 | :spider_web: | [Cookie SQL injection](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | | :incoming_envelope: | [Chisel_ip_and_port](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons)  | |  |   | 
 | :spider_web: | [SQL injection with read/create file](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
-| :spider_web: | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   | 
+| :spider_web: | [Php command exploit](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | |  |   | |  |   | |  |   |
+| :spider_web: | [Sqlmap_reverse_shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | |  |   | |  |   | |  |   |
 <!--
 | :spider_web: |   | | :lock: |   | | :incoming_envelope: |   | | :pencil2: |   | 
 --->
@@ -164,8 +169,8 @@
 | :mechanical_arm: | [Hydra ftp](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mnemonic) | | :books: | [Mongodb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Road) | | :snake: | [Python(capabilities)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Oh_My_Webserver) | | :penguin: | [PATH exporting](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Fox) |
 | :mechanical_arm: | [Wpscan pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/ColddBox) | | :books: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :snake: | [Python SQLite](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :penguin: | [Sudo host](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Looking_Glass) |
 | :mechanical_arm: | [Zip pass brute](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | | :books: | [Couchdb browsing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Couch) | | :snake: | [Python "zA" decode](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) | | :penguin: | [Sending files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |
-|  |  | |  |  | |  |  | | :penguin: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
-|  |  | |  |  | |  |  | | :penguin: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |
+|  |  | |  |  | | :snake: | [Python_ip_scanner](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | | :penguin: | [Ssh-keygen](https://github.com/fobblified/Writeups/tree/main/Tryhackme/VulnNet_Internal) |
+|  |  | |  |  | | :snake: | [Python_port_scanner](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | | :penguin: | [Gpg import](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) |
 
 <!---
 | :mechanical_arm: |  | | :books: |  | | :snake: |  | | :penguin: |  |
@@ -178,6 +183,7 @@
 | :joystick: | [Git / git-dumper](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Harder) | | :toolbox: | [Shell stabilisation](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Mindgames) |  | :whale: | [Docker escape - bash](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :floppy_disk: | [Stack Buffer Overflow](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Anonymous_Playground) |
 | :joystick: | [Gitea 2FA bypass by database](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) |  | :toolbox: | [Symbolic link for opening files](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | | :whale: | [Docker escape via ftp and tar wildcards](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) |
 | :joystick: | [Gitea Git Hooks shell](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Year_of_the_Dog) | | :toolbox: | [Rbash(command restriction)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Jeff) | | :whale: | [Lxd-alpine(privesc)](https://github.com/fobblified/Writeups/tree/main/Tryhackme/For_Business_Reasons) |
+| :joystick: | [GitHack_and_getting_files_from_git](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | | :toolbox: | [Apk_Reversing](https://github.com/fobblified/Writeups/tree/main/Tryhackme/Borderlands) | |  |  | |  |  |
 
 <!---
 | :joystick: |  | | :toolbox: |  | |  | Docker | | :floppy_disk: |  |
